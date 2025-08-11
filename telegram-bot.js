@@ -4,7 +4,7 @@
 class TelegramBot {
     constructor() {
         this.botToken = this.getBotToken();
-        this.channelUsername = '@taskupofficial';
+        this.channelUsername = '@pepe_rewardofficial';
         this.botUsername = 'pepe_rewardbot';
     }
 
